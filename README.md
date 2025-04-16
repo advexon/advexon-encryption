@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/fardo-encryption](https://github.com/yourusername/fardo-encryption)
+Project Link: [https://github.com/advexon/fardo-encryption](https://github.com/advexon/fardo-encryption)
 
 ---
 
